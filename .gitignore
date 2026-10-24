@@ -1,5 +1,3 @@
 *.o
-*.swp
-*.gch
 infix
 a.out
