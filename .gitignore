@@ -1,3 +1,4 @@
 *.o
 infix
 a.out
+*.swp
